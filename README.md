@@ -54,6 +54,7 @@ Clone of Reddit Web App.
 			- To calculate the time ago from the created date time field.
 		- springfox
 			- To create API documentation with Swagger 2.
+			- Link to access the api-docs http://localhost:8080/reddit-service/swagger-ui.html
  
 
 ## User Inteface
